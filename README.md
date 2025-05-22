@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Welcome
 
-<!--
-**Dikshit673/Dikshit673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm **Sachin Kumar**, a passionate **Web-Developer** with a love for coding, learning, and exploring the latest in web technologies, I specialize in creating robust, scalable applications using the **MERN stack** and other modern technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, React, TailwindCSS, TypeScript, Redux, Next JS
+- **Backend:** Node.js, Express JS, Typescript
+- **Database:** MongoDB
+- **Authentication:** JWT
+- **AI Engineering:**  OpenAI
+- **Other Tools:** Vite, VS Code, Git, Vercel, Postman
+
+## 📫 Let's Connect
+
+- 📩 **Email:** [sachinnavodian@gmail.com](mailto:sachinnavodian@gmail.com)  
+- 🔗 **LinkedIn:** [sachin-kumar-dev01](https://www.linkedin.com/in/sachin-kumar-dev01)  
+- 🐦 **X:** [@SachinK45099263](https://twitter.com/SachinK45099263)
+- 📷 **Instagram:** [sachin.kumar_1905_](https://instagram.com/sachin.kumar_1905_)
