@@ -1,6 +1,6 @@
-# 👋 Welcome
+# 🙏 Welcome to my Profile
 
-# 👋 Hi, I'm Sachin Kumar
+# 👋 Hey, I'm Sachin Kumar
 
 👩🏻‍💻 Software Engineer focusing on mobile and web development<br/>
 👩🏻‍🎓 B.Tech graduate in Chemical Engineering at the IIT Roorkee, Haridwar, Uttarakhand<br/>
